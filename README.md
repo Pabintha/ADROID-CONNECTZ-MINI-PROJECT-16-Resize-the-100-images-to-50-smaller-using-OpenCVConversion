@@ -1,0 +1,1 @@
+# ADROID-CONNECTZ-MINI-PROJECT-16-Resize-the-100-images-to-50-smaller-using-OpenCVConversion
